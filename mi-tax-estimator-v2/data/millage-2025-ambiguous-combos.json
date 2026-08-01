@@ -1,0 +1,933 @@
+[
+  {
+    "county": "Eaton",
+    "municipality": "Benton Twp",
+    "village": null,
+    "school_district": "TR-GL/CHAR",
+    "rows": [
+      {
+        "county": "Eaton",
+        "municipality": "Benton Twp",
+        "municipality_code": "231020",
+        "village": null,
+        "school_district": "TR-GL/CHAR",
+        "principal_residence_rate": 36.3753,
+        "nonhomestead_rate": 54.3753,
+        "industrial_personal_rate": 30.3753,
+        "commercial_personal_rate": 42.3753,
+        "principal_residence_rate_w_special_assessment": 36.3753,
+        "nonhomestead_rate_w_special_assessment": 54.3753
+      },
+      {
+        "county": "Eaton",
+        "municipality": "Benton Twp",
+        "municipality_code": "231020",
+        "village": null,
+        "school_district": "TR-GL/CHAR",
+        "principal_residence_rate": 29.7683,
+        "nonhomestead_rate": 47.7683,
+        "industrial_personal_rate": 23.7683,
+        "commercial_personal_rate": 35.7683,
+        "principal_residence_rate_w_special_assessment": 29.7683,
+        "nonhomestead_rate_w_special_assessment": 47.7683
+      }
+    ]
+  },
+  {
+    "county": "Eaton",
+    "municipality": "Windsor Twp",
+    "village": null,
+    "school_district": "TR-HOLT/ER",
+    "rows": [
+      {
+        "county": "Eaton",
+        "municipality": "Windsor Twp",
+        "municipality_code": "231160",
+        "village": null,
+        "school_district": "TR-HOLT/ER",
+        "principal_residence_rate": 38.5294,
+        "nonhomestead_rate": 56.5294,
+        "industrial_personal_rate": 32.5294,
+        "commercial_personal_rate": 44.5294,
+        "principal_residence_rate_w_special_assessment": 38.5294,
+        "nonhomestead_rate_w_special_assessment": 56.5294
+      },
+      {
+        "county": "Eaton",
+        "municipality": "Windsor Twp",
+        "municipality_code": "231160",
+        "village": null,
+        "school_district": "TR-HOLT/ER",
+        "principal_residence_rate": 40.2294,
+        "nonhomestead_rate": 58.2294,
+        "industrial_personal_rate": 34.2294,
+        "commercial_personal_rate": 46.2294,
+        "principal_residence_rate_w_special_assessment": 40.2294,
+        "nonhomestead_rate_w_special_assessment": 58.2294
+      },
+      {
+        "county": "Eaton",
+        "municipality": "Windsor Twp",
+        "municipality_code": "231160",
+        "village": null,
+        "school_district": "TR-HOLT/ER",
+        "principal_residence_rate": 33.5494,
+        "nonhomestead_rate": 51.5494,
+        "industrial_personal_rate": 27.5494,
+        "commercial_personal_rate": 39.5494,
+        "principal_residence_rate_w_special_assessment": 33.5494,
+        "nonhomestead_rate_w_special_assessment": 51.5494
+      }
+    ]
+  },
+  {
+    "county": "Huron",
+    "municipality": "Bloomfield Twp",
+    "village": null,
+    "school_district": "NORTH HURON SCHOOL D",
+    "rows": [
+      {
+        "county": "Huron",
+        "municipality": "Bloomfield Twp",
+        "municipality_code": "321020",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 22.8663,
+        "nonhomestead_rate": 22.8663,
+        "industrial_personal_rate": 16.8663,
+        "commercial_personal_rate": 22.8663,
+        "principal_residence_rate_w_special_assessment": 22.8663,
+        "nonhomestead_rate_w_special_assessment": 22.8663
+      },
+      {
+        "county": "Huron",
+        "municipality": "Bloomfield Twp",
+        "municipality_code": "321020",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 24.0163,
+        "nonhomestead_rate": 42.0163,
+        "industrial_personal_rate": 18.0163,
+        "commercial_personal_rate": 30.0163,
+        "principal_residence_rate_w_special_assessment": 24.0163,
+        "nonhomestead_rate_w_special_assessment": 42.0163
+      }
+    ]
+  },
+  {
+    "county": "Huron",
+    "municipality": "Bloomfield Twp",
+    "village": null,
+    "school_district": "SIGEL TWP SCHOOL DIST",
+    "rows": [
+      {
+        "county": "Huron",
+        "municipality": "Bloomfield Twp",
+        "municipality_code": "321020",
+        "village": null,
+        "school_district": "SIGEL TWP SCHOOL DIST",
+        "principal_residence_rate": 22.8663,
+        "nonhomestead_rate": 40.8663,
+        "industrial_personal_rate": 16.8663,
+        "commercial_personal_rate": 28.8663,
+        "principal_residence_rate_w_special_assessment": 22.8663,
+        "nonhomestead_rate_w_special_assessment": 40.8663
+      },
+      {
+        "county": "Huron",
+        "municipality": "Bloomfield Twp",
+        "municipality_code": "321020",
+        "village": null,
+        "school_district": "SIGEL TWP SCHOOL DIST",
+        "principal_residence_rate": 22.8663,
+        "nonhomestead_rate": 38.8663,
+        "industrial_personal_rate": 16.8663,
+        "commercial_personal_rate": 26.8663,
+        "principal_residence_rate_w_special_assessment": 22.8663,
+        "nonhomestead_rate_w_special_assessment": 38.8663
+      }
+    ]
+  },
+  {
+    "county": "Huron",
+    "municipality": "Huron Twp",
+    "village": null,
+    "school_district": "NORTH HURON SCHOOL D",
+    "rows": [
+      {
+        "county": "Huron",
+        "municipality": "Huron Twp",
+        "municipality_code": "321120",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 23.1371,
+        "nonhomestead_rate": 23.1371,
+        "industrial_personal_rate": 17.1371,
+        "commercial_personal_rate": 23.1371,
+        "principal_residence_rate_w_special_assessment": 23.1371,
+        "nonhomestead_rate_w_special_assessment": 23.1371
+      },
+      {
+        "county": "Huron",
+        "municipality": "Huron Twp",
+        "municipality_code": "321120",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 24.2871,
+        "nonhomestead_rate": 42.2871,
+        "industrial_personal_rate": 18.2871,
+        "commercial_personal_rate": 30.2871,
+        "principal_residence_rate_w_special_assessment": 24.2871,
+        "nonhomestead_rate_w_special_assessment": 42.2871
+      }
+    ]
+  },
+  {
+    "county": "Huron",
+    "municipality": "Port Austin Twp",
+    "village": null,
+    "school_district": "NORTH HURON SCHOOL D",
+    "rows": [
+      {
+        "county": "Huron",
+        "municipality": "Port Austin Twp",
+        "municipality_code": "321200",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 22.5395,
+        "nonhomestead_rate": 22.5395,
+        "industrial_personal_rate": 16.5395,
+        "commercial_personal_rate": 22.5395,
+        "principal_residence_rate_w_special_assessment": 22.5395,
+        "nonhomestead_rate_w_special_assessment": 22.5395
+      },
+      {
+        "county": "Huron",
+        "municipality": "Port Austin Twp",
+        "municipality_code": "321200",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 23.6895,
+        "nonhomestead_rate": 41.6895,
+        "industrial_personal_rate": 17.6895,
+        "commercial_personal_rate": 29.6895,
+        "principal_residence_rate_w_special_assessment": 23.6895,
+        "nonhomestead_rate_w_special_assessment": 41.6895
+      }
+    ]
+  },
+  {
+    "county": "Huron",
+    "municipality": "Rubicon Twp",
+    "village": null,
+    "school_district": "NORTH HURON SCHOOL D",
+    "rows": [
+      {
+        "county": "Huron",
+        "municipality": "Rubicon Twp",
+        "municipality_code": "321210",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 22.1195,
+        "nonhomestead_rate": 22.1195,
+        "industrial_personal_rate": 16.1195,
+        "commercial_personal_rate": 22.1195,
+        "principal_residence_rate_w_special_assessment": 22.1195,
+        "nonhomestead_rate_w_special_assessment": 22.1195
+      },
+      {
+        "county": "Huron",
+        "municipality": "Rubicon Twp",
+        "municipality_code": "321210",
+        "village": null,
+        "school_district": "NORTH HURON SCHOOL D",
+        "principal_residence_rate": 23.2695,
+        "nonhomestead_rate": 41.2695,
+        "industrial_personal_rate": 17.2695,
+        "commercial_personal_rate": 29.2695,
+        "principal_residence_rate_w_special_assessment": 23.2695,
+        "nonhomestead_rate_w_special_assessment": 41.2695
+      }
+    ]
+  },
+  {
+    "county": "Huron",
+    "municipality": "Sigel Twp",
+    "village": null,
+    "school_district": "SIGEL TWP SCHOOL DIST",
+    "rows": [
+      {
+        "county": "Huron",
+        "municipality": "Sigel Twp",
+        "municipality_code": "321260",
+        "village": null,
+        "school_district": "SIGEL TWP SCHOOL DIST",
+        "principal_residence_rate": 23.2601,
+        "nonhomestead_rate": 41.2601,
+        "industrial_personal_rate": 17.2601,
+        "commercial_personal_rate": 29.2601,
+        "principal_residence_rate_w_special_assessment": 23.2601,
+        "nonhomestead_rate_w_special_assessment": 41.2601
+      },
+      {
+        "county": "Huron",
+        "municipality": "Sigel Twp",
+        "municipality_code": "321260",
+        "village": null,
+        "school_district": "SIGEL TWP SCHOOL DIST",
+        "principal_residence_rate": 23.2601,
+        "nonhomestead_rate": 39.2601,
+        "industrial_personal_rate": 17.2601,
+        "commercial_personal_rate": 27.2601,
+        "principal_residence_rate_w_special_assessment": 23.2601,
+        "nonhomestead_rate_w_special_assessment": 39.2601
+      }
+    ]
+  },
+  {
+    "county": "Isabella",
+    "municipality": "Broomfield Twp",
+    "village": null,
+    "school_district": "CHIPPEWA HILLS SCHOOL",
+    "rows": [
+      {
+        "county": "Isabella",
+        "municipality": "Broomfield Twp",
+        "municipality_code": "371010",
+        "village": null,
+        "school_district": "CHIPPEWA HILLS SCHOOL",
+        "principal_residence_rate": 25.616,
+        "nonhomestead_rate": 43.616,
+        "industrial_personal_rate": 19.616,
+        "commercial_personal_rate": 31.616,
+        "principal_residence_rate_w_special_assessment": 25.616,
+        "nonhomestead_rate_w_special_assessment": 43.616
+      },
+      {
+        "county": "Isabella",
+        "municipality": "Broomfield Twp",
+        "municipality_code": "371010",
+        "village": null,
+        "school_district": "CHIPPEWA HILLS SCHOOL",
+        "principal_residence_rate": 28.2204,
+        "nonhomestead_rate": 46.2204,
+        "industrial_personal_rate": 22.2204,
+        "commercial_personal_rate": 34.2204,
+        "principal_residence_rate_w_special_assessment": 28.2204,
+        "nonhomestead_rate_w_special_assessment": 46.2204
+      }
+    ]
+  },
+  {
+    "county": "Isabella",
+    "municipality": "Deerfield Twp",
+    "village": null,
+    "school_district": "TR-MT PLEASANT",
+    "rows": [
+      {
+        "county": "Isabella",
+        "municipality": "Deerfield Twp",
+        "municipality_code": "371050",
+        "village": null,
+        "school_district": "TR-MT PLEASANT",
+        "principal_residence_rate": 32.5951,
+        "nonhomestead_rate": 50.5951,
+        "industrial_personal_rate": 26.5951,
+        "commercial_personal_rate": 38.5951,
+        "principal_residence_rate_w_special_assessment": 32.5951,
+        "nonhomestead_rate_w_special_assessment": 50.5951
+      },
+      {
+        "county": "Isabella",
+        "municipality": "Deerfield Twp",
+        "municipality_code": "371050",
+        "village": null,
+        "school_district": "TR-MT PLEASANT",
+        "principal_residence_rate": 32.5951,
+        "nonhomestead_rate": 50.5951,
+        "industrial_personal_rate": 26.5951,
+        "commercial_personal_rate": 38.5951,
+        "principal_residence_rate_w_special_assessment": 32.5951,
+        "nonhomestead_rate_w_special_assessment": 50.5951
+      }
+    ]
+  },
+  {
+    "county": "Lenawee",
+    "municipality": "Ridgeway Twp",
+    "village": null,
+    "school_district": "BRITTON DEERFIELD SCH",
+    "rows": [
+      {
+        "county": "Lenawee",
+        "municipality": "Ridgeway Twp",
+        "municipality_code": "461160",
+        "village": null,
+        "school_district": "BRITTON DEERFIELD SCH",
+        "principal_residence_rate": 29.881,
+        "nonhomestead_rate": 47.881,
+        "industrial_personal_rate": 23.881,
+        "commercial_personal_rate": 35.881,
+        "principal_residence_rate_w_special_assessment": 29.881,
+        "nonhomestead_rate_w_special_assessment": 47.881
+      },
+      {
+        "county": "Lenawee",
+        "municipality": "Ridgeway Twp",
+        "municipality_code": "461160",
+        "village": null,
+        "school_district": "BRITTON DEERFIELD SCH",
+        "principal_residence_rate": 27.731,
+        "nonhomestead_rate": 45.731,
+        "industrial_personal_rate": 21.731,
+        "commercial_personal_rate": 33.731,
+        "principal_residence_rate_w_special_assessment": 27.731,
+        "nonhomestead_rate_w_special_assessment": 45.731
+      }
+    ]
+  },
+  {
+    "county": "Mason",
+    "municipality": "Riverton Twp",
+    "village": null,
+    "school_district": "PENTWATER PUBLIC SCH",
+    "rows": [
+      {
+        "county": "Mason",
+        "municipality": "Riverton Twp",
+        "municipality_code": "531110",
+        "village": null,
+        "school_district": "PENTWATER PUBLIC SCH",
+        "principal_residence_rate": 21.1853,
+        "nonhomestead_rate": 39.1853,
+        "industrial_personal_rate": 15.1853,
+        "commercial_personal_rate": 27.1853,
+        "principal_residence_rate_w_special_assessment": 21.1853,
+        "nonhomestead_rate_w_special_assessment": 39.1853
+      },
+      {
+        "county": "Mason",
+        "municipality": "Riverton Twp",
+        "municipality_code": "531110",
+        "village": null,
+        "school_district": "PENTWATER PUBLIC SCH",
+        "principal_residence_rate": 24.2353,
+        "nonhomestead_rate": 42.2353,
+        "industrial_personal_rate": 18.2353,
+        "commercial_personal_rate": 30.2353,
+        "principal_residence_rate_w_special_assessment": 24.2353,
+        "nonhomestead_rate_w_special_assessment": 42.2353
+      }
+    ]
+  },
+  {
+    "county": "Mason",
+    "municipality": "Sherman Twp",
+    "village": null,
+    "school_district": "MASON COUNTY EASTER",
+    "rows": [
+      {
+        "county": "Mason",
+        "municipality": "Sherman Twp",
+        "municipality_code": "531130",
+        "village": null,
+        "school_district": "MASON COUNTY EASTER",
+        "principal_residence_rate": 25.1359,
+        "nonhomestead_rate": 43.1359,
+        "industrial_personal_rate": 19.1359,
+        "commercial_personal_rate": 31.1359,
+        "principal_residence_rate_w_special_assessment": 25.1359,
+        "nonhomestead_rate_w_special_assessment": 43.1359
+      },
+      {
+        "county": "Mason",
+        "municipality": "Sherman Twp",
+        "municipality_code": "531130",
+        "village": null,
+        "school_district": "MASON COUNTY EASTER",
+        "principal_residence_rate": 23.1647,
+        "nonhomestead_rate": 23.1647,
+        "industrial_personal_rate": 17.1647,
+        "commercial_personal_rate": 23.1647,
+        "principal_residence_rate_w_special_assessment": 23.1647,
+        "nonhomestead_rate_w_special_assessment": 23.1647
+      }
+    ]
+  },
+  {
+    "county": "Mason",
+    "municipality": "Summit Twp",
+    "village": null,
+    "school_district": "PENTWATER PUBLIC SCH",
+    "rows": [
+      {
+        "county": "Mason",
+        "municipality": "Summit Twp",
+        "municipality_code": "531140",
+        "village": null,
+        "school_district": "PENTWATER PUBLIC SCH",
+        "principal_residence_rate": 21.1793,
+        "nonhomestead_rate": 39.1793,
+        "industrial_personal_rate": 15.1793,
+        "commercial_personal_rate": 27.1793,
+        "principal_residence_rate_w_special_assessment": 21.1793,
+        "nonhomestead_rate_w_special_assessment": 39.1793
+      },
+      {
+        "county": "Mason",
+        "municipality": "Summit Twp",
+        "municipality_code": "531140",
+        "village": null,
+        "school_district": "PENTWATER PUBLIC SCH",
+        "principal_residence_rate": 24.2293,
+        "nonhomestead_rate": 42.2293,
+        "industrial_personal_rate": 18.2293,
+        "commercial_personal_rate": 30.2293,
+        "principal_residence_rate_w_special_assessment": 24.2293,
+        "nonhomestead_rate_w_special_assessment": 42.2293
+      }
+    ]
+  },
+  {
+    "county": "Mecosta",
+    "municipality": "Deerfield Twp",
+    "village": null,
+    "school_district": "MORLEY STANWOOD CO",
+    "rows": [
+      {
+        "county": "Mecosta",
+        "municipality": "Deerfield Twp",
+        "municipality_code": "541060",
+        "village": null,
+        "school_district": "MORLEY STANWOOD CO",
+        "principal_residence_rate": 22.2425,
+        "nonhomestead_rate": 40.0157,
+        "industrial_personal_rate": 16.2425,
+        "commercial_personal_rate": 28.0157,
+        "principal_residence_rate_w_special_assessment": 22.2425,
+        "nonhomestead_rate_w_special_assessment": 40.0157
+      },
+      {
+        "county": "Mecosta",
+        "municipality": "Deerfield Twp",
+        "municipality_code": "541060",
+        "village": null,
+        "school_district": "MORLEY STANWOOD CO",
+        "principal_residence_rate": 24.8469,
+        "nonhomestead_rate": 42.6201,
+        "industrial_personal_rate": 18.8469,
+        "commercial_personal_rate": 30.6201,
+        "principal_residence_rate_w_special_assessment": 24.8469,
+        "nonhomestead_rate_w_special_assessment": 42.6201
+      }
+    ]
+  },
+  {
+    "county": "Mecosta",
+    "municipality": "Millbrook Twp",
+    "village": null,
+    "school_district": "CHIPPEWA HILLS SCHOOL",
+    "rows": [
+      {
+        "county": "Mecosta",
+        "municipality": "Millbrook Twp",
+        "municipality_code": "541130",
+        "village": null,
+        "school_district": "CHIPPEWA HILLS SCHOOL",
+        "principal_residence_rate": 24.085,
+        "nonhomestead_rate": 42.085,
+        "industrial_personal_rate": 18.085,
+        "commercial_personal_rate": 30.085,
+        "principal_residence_rate_w_special_assessment": 24.085,
+        "nonhomestead_rate_w_special_assessment": 42.085
+      },
+      {
+        "county": "Mecosta",
+        "municipality": "Millbrook Twp",
+        "municipality_code": "541130",
+        "village": null,
+        "school_district": "CHIPPEWA HILLS SCHOOL",
+        "principal_residence_rate": 26.6894,
+        "nonhomestead_rate": 44.6894,
+        "industrial_personal_rate": 20.6894,
+        "commercial_personal_rate": 32.6894,
+        "principal_residence_rate_w_special_assessment": 26.6894,
+        "nonhomestead_rate_w_special_assessment": 44.6894
+      }
+    ]
+  },
+  {
+    "county": "Missaukee",
+    "municipality": "Aetna Twp",
+    "village": null,
+    "school_district": "LAKE CITY AREA SCHOOL",
+    "rows": [
+      {
+        "county": "Missaukee",
+        "municipality": "Aetna Twp",
+        "municipality_code": "571010",
+        "village": null,
+        "school_district": "LAKE CITY AREA SCHOOL",
+        "principal_residence_rate": 28.406,
+        "nonhomestead_rate": 46.0046,
+        "industrial_personal_rate": 22.406,
+        "commercial_personal_rate": 34.0046,
+        "principal_residence_rate_w_special_assessment": 28.406,
+        "nonhomestead_rate_w_special_assessment": 46.0046
+      },
+      {
+        "county": "Missaukee",
+        "municipality": "Aetna Twp",
+        "municipality_code": "571010",
+        "village": null,
+        "school_district": "LAKE CITY AREA SCHOOL",
+        "principal_residence_rate": 30.5665,
+        "nonhomestead_rate": 48.1651,
+        "industrial_personal_rate": 24.5665,
+        "commercial_personal_rate": 36.1651,
+        "principal_residence_rate_w_special_assessment": 30.5665,
+        "nonhomestead_rate_w_special_assessment": 48.1651
+      }
+    ]
+  },
+  {
+    "county": "Missaukee",
+    "municipality": "Aetna Twp",
+    "village": null,
+    "school_district": "MCBAIN RURAL AGR SCH",
+    "rows": [
+      {
+        "county": "Missaukee",
+        "municipality": "Aetna Twp",
+        "municipality_code": "571010",
+        "village": null,
+        "school_district": "MCBAIN RURAL AGR SCH",
+        "principal_residence_rate": 28.9949,
+        "nonhomestead_rate": 46.9949,
+        "industrial_personal_rate": 22.9949,
+        "commercial_personal_rate": 34.9949,
+        "principal_residence_rate_w_special_assessment": 28.9949,
+        "nonhomestead_rate_w_special_assessment": 46.9949
+      },
+      {
+        "county": "Missaukee",
+        "municipality": "Aetna Twp",
+        "municipality_code": "571010",
+        "village": null,
+        "school_district": "MCBAIN RURAL AGR SCH",
+        "principal_residence_rate": 31.1554,
+        "nonhomestead_rate": 49.1554,
+        "industrial_personal_rate": 25.1554,
+        "commercial_personal_rate": 37.1554,
+        "principal_residence_rate_w_special_assessment": 31.1554,
+        "nonhomestead_rate_w_special_assessment": 49.1554
+      }
+    ]
+  },
+  {
+    "county": "Missaukee",
+    "municipality": "Enterprise Twp",
+    "village": null,
+    "school_district": "LAKE CITY AREA SCHOOL",
+    "rows": [
+      {
+        "county": "Missaukee",
+        "municipality": "Enterprise Twp",
+        "municipality_code": "571060",
+        "village": null,
+        "school_district": "LAKE CITY AREA SCHOOL",
+        "principal_residence_rate": 27.158,
+        "nonhomestead_rate": 44.7566,
+        "industrial_personal_rate": 21.158,
+        "commercial_personal_rate": 32.7566,
+        "principal_residence_rate_w_special_assessment": 27.158,
+        "nonhomestead_rate_w_special_assessment": 44.7566
+      },
+      {
+        "county": "Missaukee",
+        "municipality": "Enterprise Twp",
+        "municipality_code": "571060",
+        "village": null,
+        "school_district": "LAKE CITY AREA SCHOOL",
+        "principal_residence_rate": 29.3185,
+        "nonhomestead_rate": 46.9171,
+        "industrial_personal_rate": 23.3185,
+        "commercial_personal_rate": 34.9171,
+        "principal_residence_rate_w_special_assessment": 29.3185,
+        "nonhomestead_rate_w_special_assessment": 46.9171
+      }
+    ]
+  },
+  {
+    "county": "Missaukee",
+    "municipality": "West Branch Twp",
+    "village": null,
+    "school_district": "LAKE CITY AREA SCHOOL",
+    "rows": [
+      {
+        "county": "Missaukee",
+        "municipality": "West Branch Twp",
+        "municipality_code": "571150",
+        "village": null,
+        "school_district": "LAKE CITY AREA SCHOOL",
+        "principal_residence_rate": 26.0181,
+        "nonhomestead_rate": 43.6167,
+        "industrial_personal_rate": 20.0181,
+        "commercial_personal_rate": 31.6167,
+        "principal_residence_rate_w_special_assessment": 26.0181,
+        "nonhomestead_rate_w_special_assessment": 43.6167
+      },
+      {
+        "county": "Missaukee",
+        "municipality": "West Branch Twp",
+        "municipality_code": "571150",
+        "village": null,
+        "school_district": "LAKE CITY AREA SCHOOL",
+        "principal_residence_rate": 28.1786,
+        "nonhomestead_rate": 45.7772,
+        "industrial_personal_rate": 22.1786,
+        "commercial_personal_rate": 33.7772,
+        "principal_residence_rate_w_special_assessment": 28.1786,
+        "nonhomestead_rate_w_special_assessment": 45.7772
+      }
+    ]
+  },
+  {
+    "county": "Oceana",
+    "municipality": "Crystal Twp",
+    "village": null,
+    "school_district": "HART PUBLIC SCHOOL DI",
+    "rows": [
+      {
+        "county": "Oceana",
+        "municipality": "Crystal Twp",
+        "municipality_code": "641040",
+        "village": null,
+        "school_district": "HART PUBLIC SCHOOL DI",
+        "principal_residence_rate": 29.9412,
+        "nonhomestead_rate": 46.8934,
+        "industrial_personal_rate": 23.9412,
+        "commercial_personal_rate": 34.8934,
+        "principal_residence_rate_w_special_assessment": 29.9412,
+        "nonhomestead_rate_w_special_assessment": 46.8934
+      },
+      {
+        "county": "Oceana",
+        "municipality": "Crystal Twp",
+        "municipality_code": "641040",
+        "village": null,
+        "school_district": "HART PUBLIC SCHOOL DI",
+        "principal_residence_rate": 32.9912,
+        "nonhomestead_rate": 49.9434,
+        "industrial_personal_rate": 26.9912,
+        "commercial_personal_rate": 37.9434,
+        "principal_residence_rate_w_special_assessment": 32.9912,
+        "nonhomestead_rate_w_special_assessment": 49.9434
+      }
+    ]
+  },
+  {
+    "county": "Oceana",
+    "municipality": "Elbridge Twp",
+    "village": null,
+    "school_district": "HART PUBLIC SCHOOL DI",
+    "rows": [
+      {
+        "county": "Oceana",
+        "municipality": "Elbridge Twp",
+        "municipality_code": "641050",
+        "village": null,
+        "school_district": "HART PUBLIC SCHOOL DI",
+        "principal_residence_rate": 30.27,
+        "nonhomestead_rate": 47.2222,
+        "industrial_personal_rate": 24.27,
+        "commercial_personal_rate": 35.2222,
+        "principal_residence_rate_w_special_assessment": 30.27,
+        "nonhomestead_rate_w_special_assessment": 47.2222
+      },
+      {
+        "county": "Oceana",
+        "municipality": "Elbridge Twp",
+        "municipality_code": "641050",
+        "village": null,
+        "school_district": "HART PUBLIC SCHOOL DI",
+        "principal_residence_rate": 33.32,
+        "nonhomestead_rate": 50.2722,
+        "industrial_personal_rate": 27.32,
+        "commercial_personal_rate": 38.2722,
+        "principal_residence_rate_w_special_assessment": 33.32,
+        "nonhomestead_rate_w_special_assessment": 50.2722
+      }
+    ]
+  },
+  {
+    "county": "Oceana",
+    "municipality": "Weare Twp",
+    "village": null,
+    "school_district": "HART PUBLIC SCHOOL DI",
+    "rows": [
+      {
+        "county": "Oceana",
+        "municipality": "Weare Twp",
+        "municipality_code": "641160",
+        "village": null,
+        "school_district": "HART PUBLIC SCHOOL DI",
+        "principal_residence_rate": 27.9139,
+        "nonhomestead_rate": 44.8661,
+        "industrial_personal_rate": 21.9139,
+        "commercial_personal_rate": 32.8661,
+        "principal_residence_rate_w_special_assessment": 27.9139,
+        "nonhomestead_rate_w_special_assessment": 44.8661
+      },
+      {
+        "county": "Oceana",
+        "municipality": "Weare Twp",
+        "municipality_code": "641160",
+        "village": null,
+        "school_district": "HART PUBLIC SCHOOL DI",
+        "principal_residence_rate": 30.9639,
+        "nonhomestead_rate": 47.9161,
+        "industrial_personal_rate": 24.9639,
+        "commercial_personal_rate": 35.9161,
+        "principal_residence_rate_w_special_assessment": 30.9639,
+        "nonhomestead_rate_w_special_assessment": 47.9161
+      }
+    ]
+  },
+  {
+    "county": "Oceana",
+    "municipality": "Weare Twp",
+    "village": null,
+    "school_district": "PENTWATER PUBLIC SCH",
+    "rows": [
+      {
+        "county": "Oceana",
+        "municipality": "Weare Twp",
+        "municipality_code": "641160",
+        "village": null,
+        "school_district": "PENTWATER PUBLIC SCH",
+        "principal_residence_rate": 24.713,
+        "nonhomestead_rate": 42.713,
+        "industrial_personal_rate": 18.713,
+        "commercial_personal_rate": 30.713,
+        "principal_residence_rate_w_special_assessment": 24.713,
+        "nonhomestead_rate_w_special_assessment": 42.713
+      },
+      {
+        "county": "Oceana",
+        "municipality": "Weare Twp",
+        "municipality_code": "641160",
+        "village": null,
+        "school_district": "PENTWATER PUBLIC SCH",
+        "principal_residence_rate": 27.763,
+        "nonhomestead_rate": 45.763,
+        "industrial_personal_rate": 21.763,
+        "commercial_personal_rate": 33.763,
+        "principal_residence_rate_w_special_assessment": 27.763,
+        "nonhomestead_rate_w_special_assessment": 45.763
+      }
+    ]
+  },
+  {
+    "county": "Washtenaw",
+    "municipality": "Salem Twp",
+    "village": null,
+    "school_district": "SOUTH LYON COMMUNITY",
+    "rows": [
+      {
+        "county": "Washtenaw",
+        "municipality": "Salem Twp",
+        "municipality_code": "811120",
+        "village": null,
+        "school_district": "SOUTH LYON COMMUNITY",
+        "principal_residence_rate": 26.6161,
+        "nonhomestead_rate": 44.6161,
+        "industrial_personal_rate": 20.6161,
+        "commercial_personal_rate": 32.6161,
+        "principal_residence_rate_w_special_assessment": 26.6161,
+        "nonhomestead_rate_w_special_assessment": 44.6161
+      },
+      {
+        "county": "Washtenaw",
+        "municipality": "Salem Twp",
+        "municipality_code": "811120",
+        "village": null,
+        "school_district": "SOUTH LYON COMMUNITY",
+        "principal_residence_rate": 28.4843,
+        "nonhomestead_rate": 46.4843,
+        "industrial_personal_rate": 22.4843,
+        "commercial_personal_rate": 34.4843,
+        "principal_residence_rate_w_special_assessment": 28.4843,
+        "nonhomestead_rate_w_special_assessment": 46.4843
+      }
+    ]
+  },
+  {
+    "county": "Washtenaw",
+    "municipality": "Salem Twp",
+    "village": null,
+    "school_district": "PLYMOUTH CANTON COM",
+    "rows": [
+      {
+        "county": "Washtenaw",
+        "municipality": "Salem Twp",
+        "municipality_code": "811120",
+        "village": null,
+        "school_district": "PLYMOUTH CANTON COM",
+        "principal_residence_rate": 26.6565,
+        "nonhomestead_rate": 44.6565,
+        "industrial_personal_rate": 20.6565,
+        "commercial_personal_rate": 32.6565,
+        "principal_residence_rate_w_special_assessment": 26.6565,
+        "nonhomestead_rate_w_special_assessment": 44.6565
+      },
+      {
+        "county": "Washtenaw",
+        "municipality": "Salem Twp",
+        "municipality_code": "811120",
+        "village": null,
+        "school_district": "PLYMOUTH CANTON COM",
+        "principal_residence_rate": 27.7294,
+        "nonhomestead_rate": 45.7294,
+        "industrial_personal_rate": 21.7294,
+        "commercial_personal_rate": 33.7294,
+        "principal_residence_rate_w_special_assessment": 27.7294,
+        "nonhomestead_rate_w_special_assessment": 45.7294
+      }
+    ]
+  },
+  {
+    "county": "Washtenaw",
+    "municipality": "Superior Twp",
+    "village": null,
+    "school_district": "PLYMOUTH CANTON COM",
+    "rows": [
+      {
+        "county": "Washtenaw",
+        "municipality": "Superior Twp",
+        "municipality_code": "811160",
+        "village": null,
+        "school_district": "PLYMOUTH CANTON COM",
+        "principal_residence_rate": 34.577,
+        "nonhomestead_rate": 52.577,
+        "industrial_personal_rate": 28.577,
+        "commercial_personal_rate": 40.577,
+        "principal_residence_rate_w_special_assessment": 34.577,
+        "nonhomestead_rate_w_special_assessment": 52.577
+      },
+      {
+        "county": "Washtenaw",
+        "municipality": "Superior Twp",
+        "municipality_code": "811160",
+        "village": null,
+        "school_district": "PLYMOUTH CANTON COM",
+        "principal_residence_rate": 35.6499,
+        "nonhomestead_rate": 53.6499,
+        "industrial_personal_rate": 29.6499,
+        "commercial_personal_rate": 41.6499,
+        "principal_residence_rate_w_special_assessment": 35.6499,
+        "nonhomestead_rate_w_special_assessment": 53.6499
+      }
+    ]
+  }
+]

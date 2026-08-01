@@ -1,0 +1,44 @@
+[
+  {
+    "county": "Eaton",
+    "municipality": "Lansing City",
+    "municipality_code": "232040",
+    "village": null,
+    "school_district": null,
+    "principal_residence_rate": 42.4559,
+    "nonhomestead_rate": 42.4559,
+    "industrial_personal_rate": 36.4559,
+    "commercial_personal_rate": 42.4559,
+    "principal_residence_rate_w_special_assessment": 42.4559,
+    "nonhomestead_rate_w_special_assessment": 42.4559,
+    "reason": "missing school district name in source PDF row"
+  },
+  {
+    "county": "Ingham",
+    "municipality": "East Lansing City",
+    "municipality_code": "332010",
+    "village": null,
+    "school_district": null,
+    "principal_residence_rate": 38.4849,
+    "nonhomestead_rate": 38.4849,
+    "industrial_personal_rate": 32.4849,
+    "commercial_personal_rate": 38.4849,
+    "principal_residence_rate_w_special_assessment": 38.4849,
+    "nonhomestead_rate_w_special_assessment": 38.4849,
+    "reason": "missing school district name in source PDF row"
+  },
+  {
+    "county": "Ingham",
+    "municipality": "East Lansing City",
+    "municipality_code": "332010",
+    "village": null,
+    "school_district": null,
+    "principal_residence_rate": 38.4849,
+    "nonhomestead_rate": 38.4849,
+    "industrial_personal_rate": 32.4849,
+    "commercial_personal_rate": 38.4849,
+    "principal_residence_rate_w_special_assessment": 38.4849,
+    "nonhomestead_rate_w_special_assessment": 38.4849,
+    "reason": "missing school district name in source PDF row"
+  }
+]
